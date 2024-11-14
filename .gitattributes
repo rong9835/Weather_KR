@@ -1,0 +1,4 @@
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.js linguist-documentation=true
+*.jsx linguist-documentation=true
